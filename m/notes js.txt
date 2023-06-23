@@ -1,0 +1,35 @@
+java script is a free open source scripting language for communicating with server.
+3 major things which we are going to do in js are 
+storing the data
+performing operations on that data 
+displaying the result
+
+TYPES OF DATA IN JAVA SCRIPT:
+Primary
+Secoondry
+
+primary is categorized into 7 types:
+1:number
+2:string
+3:boolean
+4:null
+5:undefined
+6:Symbol
+7:BigINT
+
+Secondry type 
+object
+																	
+OPERATORS IN JAVA SCRIPT:
+types of operators:
+1.Asiignment operators
+2.arthematic operators
+3.relational opertors
+4.logical
+5.conditional
+6.increment or decrement
+
+FETCH method which is going to make a sevrer action by passing api as parameter.it is going to give us a response back which we are going to handle using then() and we got the response and 
+we need to convert the response into Jason format by using jason method.
+NOTE:by default fetch will perform get() operation.
+	  

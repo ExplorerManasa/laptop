@@ -1,0 +1,26 @@
+Database
+
+1.SEQUEL
+2.NO SEQUEL
+
+SEQUEL:my sql,sql lite,post gres sql
+
+Structural query language
+
+ stores the data in a relational table format  where we use a lot of commands like DDL(data definition language),DML(data maipulation language),DCL(data control lang),
+TCL(transaction control language)
+
+2.NO SEQUEL
+
+mongo db:here the data is going to be stored in a collection (JSOn)
+
+STeps to create mongo db atlas:
+
+1.LOg in MOngo DB atlas
+2.Created the free tier
+3.created a user and password
+4.go to the network access tab add a IP-address access from anywhere
+
+Under deployment section select the database 
+click on browser collections 
+now create a database and a collection

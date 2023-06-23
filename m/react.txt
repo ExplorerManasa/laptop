@@ -1,0 +1,29 @@
+we are having two types of components in react.
+1.Functional component
+2.class component
+
+Function component: is used for displaying the data 
+				   we dont have the capability to perform the operations until 2016.
+				   Then introduced react hooks.
+
+Class component: in which we are going to use arender method.
+                 Manipulations are also perfoemed in class components.
+
+
+
+Types of calling a component 2ways:
+1.<compoent/>
+2.<component></component>
+
+Props:Which is for transferring the data fom one component to another component.
+
+STATE:in class compnents we are going to use render method.state is going to work only in class components you nedd to use it as a object.to access  
+the state data this.state.variablname is used by us
+
+
+Set state method helps to update a state variable we are going to use camelCase covention method we are going to get a event as parameter carries target.value
+by using arrow method type we handle the function.
+
+JSX Java script extensible. where we write the code in elements format
+Css class property is defined using class name(create Element is used without JSX).
+
